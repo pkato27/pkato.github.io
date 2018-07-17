@@ -1,0 +1,32 @@
+h1{
+  font-size: 37px;
+  border: 3px solid;
+  text-align: center;
+  color:white;
+}
+
+h2  {
+    text-align: center;
+}
+#numbGuesses{
+    text-align: center;
+    color:brown;
+    font-size: 20px;
+}
+
+
+#loss {
+    text-align: center;
+    color:brown;
+}
+
+.underscores {
+    text-align: center;
+    color: brown;
+    font-size: 50px;
+}
+
+body{
+    background-image: url(http://backgroundcheckall.com/wp-content/uploads/2017/12/nfl-background-6.jpg)
+}
+
